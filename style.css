@@ -1,0 +1,316 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.link-background
+{
+    background-color: #0000ff99;
+    height: auto;
+}
+.link-icons
+{
+    margin-left: 30px;
+}
+.socialicons
+{
+    
+    color: whitesmoke;
+    margin-left: 5px;
+    padding-left: 15px;
+    cursor: pointer!important;
+    margin-top: 15px;
+}
+i:hover{
+    color: skyblue;
+    
+}
+.link-p
+{
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.btn-outline-success
+{
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: -10px;
+    border-radius: 10px;
+}
+.navbackgroound
+{
+    background-color: whitesmoke;
+}
+.navlogo img
+{
+    width: 200px!important;
+    height: 80px!important;
+}
+.nav-item
+{
+
+margin-left: 55px;
+margin-top: 5px;
+}
+
+.nav-link:hover
+{
+    color: white!important;
+}
+.nav-item:hover
+{
+    background-color:#0000ffb9!important;
+    border-radius: 30px 30px;
+    
+}
+
+.mrqtxt 
+{
+    background-color: blue;
+    color: white;
+    height: 30px;
+}
+span{
+    color: greenyellow;
+}
+.clrline
+{
+    border: 1px solid green;
+    width: 180px;
+    height: 10px;
+    background-color: green;
+    border-radius: 20px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: auto;
+    margin: auto;
+    margin-top: 80px;
+}
+.logoimg2
+{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.logoimg2 img
+{
+    width: 50px;
+    height: 50px;  
+    margin-top: 20px;
+}
+.abtp
+{
+    
+    margin: 0px 130px 20px 115px;
+    padding-top: 135px;
+    text-align: justify;
+    
+}
+.abtp p
+{
+    margin-bottom: 30px;
+}
+
+.icnbg
+{
+    background-color: blue;
+    padding-left: 90px;
+    
+  
+}
+i
+{
+    
+     color: white;
+    margin-left: 50px;
+    padding-left: 10px;
+    
+}
+.count
+{
+    color: white;
+    margin-left: 22px;
+}
+.count+p{
+    color: white;
+}
+#mr
+{
+    margin-left: 50px;
+}
+.mr
+{
+margin-left: 35px;
+}
+.clrtxt
+{
+    margin-top: 50px;
+}
+.clr
+{
+    color: skyblue;
+    text-align: center;
+    margin-top: 80px;
+}
+.logoimg3
+{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+}
+.logoimg3 img
+{
+    width: 50px;
+    height: 50px;  
+
+}
+.clrline2
+{
+    border: 1px solid green;
+    width: 180px;
+    height: 10px;
+    background-color: green;
+    border-radius: 20px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: auto;
+    margin: auto;
+    margin-top: 50px;
+}
+#svrbtn
+{
+    margin-top: 40px;
+}
+
+.svrhvr
+{
+    
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px 10px 10px 10px!important;
+    width: 280px;
+    height: 150px;
+
+}
+.svrhvr img
+{
+    width: 90px;
+    height: 70px;
+    margin-left: 10px;
+}
+.svrhvr:hover
+{
+    background-image:linear-gradient(skyblue,rgb(180, 180, 240),lightblue) !important;
+    color: azure!important;
+  
+}
+.svrhvr a{
+   
+    font-size: large;
+    font-weight: bold;
+}
+.svrtxt
+{
+    margin-top: 20px;
+}
+#srvs
+{
+    text-align-last: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 60px;
+    padding-top: 50px;
+}
+#ftrtxt
+{
+    
+    color: skyblue;
+ margin-top: 35px;
+ 
+}
+
+#ftrtxt2
+{
+    color: skyblue;
+    margin-top: 37px;
+    margin-left: 225px;
+}
+
+#ftrcont
+{
+    width: 800px;
+    margin-top: 25px;
+}
+
+
+.ftrbt
+{
+    box-shadow: 2px 2px 3px gray;
+    border-radius: 20px 20px !important;
+    width: 325px;
+    height: 70px;
+    
+}
+.ftrbt img
+{
+    
+    height: 40px;
+    margin: 0px 25px 0px -15px;
+}
+
+.ftrtxt3
+{
+    margin-top: 20px;
+}
+
+.ftrbt:hover
+{
+    background-color: skyblue;
+}
+.frttxt4
+{
+    color: skyblue;
+     margin-top: 40px;
+    text-align: center; 
+    margin-bottom: 50px;
+}
+
+.ftrpic
+{
+margin-bottom: 10px;
+}
+.ftrpic img
+{
+    width: 217px;
+   
+    
+}
+#ftrpics
+{
+    background-color: whitesmoke !important;
+   margin-top: 50px;
+   /* text-align-last: center; */
+}
+.ftrcopy
+{
+    width: 100% !important;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+}
